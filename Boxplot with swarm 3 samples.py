@@ -21,7 +21,7 @@ import scikit_posthocs as sp
 
 
 
-DataFile="/Users/dimitardimitrov/OneDrive - OIST/Projects/hPFFs in neuronal culture/Data files excel/acutechronictubulinsynpff.xlsx"
+DataFile="Data files excel/acutechronictubulinsynpff.xlsx"
 Xlabel1='-'
 Xlabel2='CH'
 Xlabel3="AC"
@@ -31,7 +31,7 @@ Ylabel=" βIII-tubulin (norm.)"
 #symbols :  α, β
 
 
-SaveAs='/Users/dimitardimitrov/OneDrive - OIST/Projects/hPFFs in neuronal culture/Data files excel/acutechronictubulinsynpff.png'
+SaveAs='Data files excel/acutechronictubulinsynpff.png'
 Columns=[0,1,2]
 fig_dims = (0.8, 1.4)
 #yaxisrange=0,5
