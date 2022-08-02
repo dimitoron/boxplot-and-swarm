@@ -22,7 +22,7 @@ import scikit_posthocs as sp
 
 
 
-DataFile="/Users/dimitardimitrov/OneDrive - OIST/Students/Humaira/331 SYN pff/331 SYNpff.xlsx"
+DataFile="Data files excel/331 SYN pff/331 SYNpff.xlsx"
 Xlabel1='-'
 Xlabel2='PFF'
 Ylabel=" α-synuclein (norm.)"
@@ -31,7 +31,7 @@ Ylabel=" α-synuclein (norm.)"
 #symbols :  α, β
 
 
-SaveAs='/Users/dimitardimitrov/OneDrive - OIST/Students/Humaira/331 SYN pff/331 SYNpff.png'
+SaveAs='Data files excel//331 SYN pff/331 SYNpff.png'
 Columns=[0,1]
 fig_dims = (0.8, 1.4)
 yaxisrange=0,8
